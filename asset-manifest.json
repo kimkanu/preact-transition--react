@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/preact-transition--react/static/css/main.43fab277.chunk.css",
+    "main.js": "/preact-transition--react/static/js/main.52efb7a8.chunk.js",
+    "main.js.map": "/preact-transition--react/static/js/main.52efb7a8.chunk.js.map",
+    "runtime~main.js": "/preact-transition--react/static/js/runtime~main.c19779c4.js",
+    "runtime~main.js.map": "/preact-transition--react/static/js/runtime~main.c19779c4.js.map",
+    "static/js/2.64dfd442.chunk.js": "/preact-transition--react/static/js/2.64dfd442.chunk.js",
+    "static/js/2.64dfd442.chunk.js.map": "/preact-transition--react/static/js/2.64dfd442.chunk.js.map",
+    "index.html": "/preact-transition--react/index.html",
+    "precache-manifest.c809c8de1b857f28c4347063b873d770.js": "/preact-transition--react/precache-manifest.c809c8de1b857f28c4347063b873d770.js",
+    "service-worker.js": "/preact-transition--react/service-worker.js",
+    "static/css/main.43fab277.chunk.css.map": "/preact-transition--react/static/css/main.43fab277.chunk.css.map"
+  }
+}
